@@ -1,6 +1,7 @@
 # Password Generator Starter Code
+
 <img width="336" alt="image" src="https://github.com/onecrazyguy/PasswordGenerator/assets/25525287/41403a50-7013-4889-8e2f-95b5d151404a">
-##Firstly, you have to specify the length of the password you would like to generate, the length of the password should be between 8 to 128 characters in length.
+##Firstly, you have to specify the length of the password you would like to generate, the length of the password should be between 8 to 128 characters in length. <br>
 <img width="323" alt="image" src="https://github.com/onecrazyguy/PasswordGenerator/assets/25525287/ad4cd6e8-986f-435b-8463-d66f97ab1a16">
 ##Secondly, choose if you would like to include any lowercased characters in the password
 <img width="323" alt="image" src="https://github.com/onecrazyguy/PasswordGenerator/assets/25525287/2f9d99fd-b0bd-4a9e-9296-8f06ddb0d91a">
